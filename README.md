@@ -27,8 +27,4 @@ After booking the train, the person will get a QR code which has to be shown to 
 A GPS module is present in the train to track it. The live status of the journey is updated in the Web app continuously
 
 All the booking details of t![download](https://user-images.githubusercontent.com/113281596/202687773-ab2a1e12-43d8-466e-8c21-a37dcec18020.png)
-he customers will be stored in the database with a unique ID and they can be retrieved back when the Ticket Collector scans the QR Code.
-
-Technical Archietecture:
-
-![picture 33](https://user-images.githubusercontent.com/113281596/202690557-379b389c-d1d0-403f-a9ce-1aaa9dcb0f0d.png)
+he customers will be stored in the database with a unique ID and they can be retrieved back when the Ticket Collector scans the QR 
